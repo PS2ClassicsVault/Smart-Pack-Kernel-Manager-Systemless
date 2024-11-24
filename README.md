@@ -1,7 +1,7 @@
 # Smart Pack Kernel Manager Systemless Magisk Module
 
 ### Version:
-v1.0
+v1.1
 
 ### Last Updated:
 11/24/24
