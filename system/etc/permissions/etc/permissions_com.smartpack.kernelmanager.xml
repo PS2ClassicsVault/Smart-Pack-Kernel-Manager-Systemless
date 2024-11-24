@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<permissions>
-    <privapp-permissions package="com.topjohnwu.magisk">
-        <permission name="android.permission.NOTIFICATIONS"/>
-       <permission name="android.permission.PHONE"/>
-        <permission name="android.permission.WRITE_SECURE_SETTINGS"/>
-        <permission name="android.permission.READ_SECURE_SETTINGS"/>
-    </privapp-permissions>
-</permissions>
