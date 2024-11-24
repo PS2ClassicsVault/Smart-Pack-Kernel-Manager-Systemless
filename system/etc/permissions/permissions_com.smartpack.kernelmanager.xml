@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <permissions>
-    <privapp-permissions package="com.topjohnwu.magisk">
+    <privapp-permissions package="com.smartpack.kernelmanager">
         <permission name="android.permission.NOTIFICATIONS"/>
        <permission name="android.permission.PHONE"/>
         <permission name="android.permission.WRITE_SECURE_SETTINGS"/>
