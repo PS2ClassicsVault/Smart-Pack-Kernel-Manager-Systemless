@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <permissions>
-    <privapp-permissions package="com.smartpack.kernelmanager">
+    <app-permissions package="com.smartpack.kernelmanager">
+        <permission name="android.permission.POST_NOTIFICATIONS"/>
         <permission name="android.permission.NOTIFICATIONS"/>
        <permission name="android.permission.PHONE"/>
+       <permission name="android.permission.READ_PHONE_STATE"/>
         <permission name="android.permission.WRITE_SECURE_SETTINGS"/>
         <permission name="android.permission.READ_SECURE_SETTINGS"/>
     </privapp-permissions>
