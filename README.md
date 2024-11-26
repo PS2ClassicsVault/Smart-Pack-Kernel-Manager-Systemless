@@ -1,10 +1,10 @@
 # Smart Pack Kernel Manager Systemless Magisk Module
 
 ### Version:
-v1.1
+v1.2
 
 ### Last Updated:
-11/24/24
+11/26/24
 
 ## Description
 Installs [Smart Pack Kernel Manager](https://github.com/SmartPack/SmartPack-Kernel-Manager) as a systemless app.
