@@ -7,5 +7,5 @@
        <permission name="android.permission.READ_PHONE_STATE"/>
         <permission name="android.permission.WRITE_SECURE_SETTINGS"/>
         <permission name="android.permission.READ_SECURE_SETTINGS"/>
-    </privapp-permissions>
+    </app-permissions>
 </permissions>
